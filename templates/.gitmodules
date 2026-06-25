@@ -1,0 +1,3 @@
+[submodule "templates/Quantum"]
+    path = templates/Quantum
+    url = https://github.com/<owner>/<repo-name>.git
